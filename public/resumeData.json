@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name": "Mohit Tikoo",
+    "occupation": "SDE-3 at @Cisco, Ex FinTech",
+    "description": "Full Stack Developer by Day, Curious Learner by Night.",
+    "image": "IG_MT.jpg",
+    "bio": "My name is Mohit, I'm a Full Stack ReactJS Developer. Currently I'm working at Cisco Systems.",
+    "contactmessage": "Get in touch with me for anything cool.",
+    "email": "mohitcool10@gmail.com",
+    "address": {
+      "street": "HSR Layout",
+      "city": "Bengaluru",
+      "state": "India",
+      "zip": "560034"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://tinyurl.com/y33wmv4h",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://tinyurl.com/y6l3p4ps",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://tinyurl.com/y524fs9h",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Java, J2EE, REST, HTML, CSS, ReactJS",
+    "education": [
+      {
+        "school": "University of Pune",
+        "degree": "Bachelor of Engineering",
+        "graduated": "Aug 2012",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cisco Systems",
+        "title": "Software Engineer - 3",
+        "years": "April 2020 - Present",
+        "description": "Working on improving the experience of the Cisco FMC product"
+      },
+      {
+        "company": "Cisco Systems",
+        "title": "Software Engineer - 2",
+        "years": "Dec 2014 - March 2017",
+        "description": "Worked on a portfolio of Cisco Security products (Next gen Firewall) as a developer."
+      },
+      {
+        "company": "Misys (now Finastra)",
+        "title": "Software Engineer",
+        "years": "Dec 2016 - April 2020",
+        "description": "Worked on design and development of Fusion Capital E-Trading Platform."
+      },
+      {
+        "company": "Misys (now Finastra)",
+        "title": "Software Engineer",
+        "years": "Feb 2013 - Nov 2016",
+        "description": "Worked on development and enhancement of features for Opics Plus product which is heavily used by all the leading banks worldwide for back-office operations of the Trade-Lifecycle"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "REST api",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      }
+    ]
+  }
+}
