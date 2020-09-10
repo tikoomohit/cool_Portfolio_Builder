@@ -98,5 +98,27 @@
         "level": "60%"
       }
     ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Portfolio Builder",
+        "category": "React JS Project",
+        "image": "portfolio.jpg",
+        "url": "https://github.com/tikoomohit/cool_Portfolio_Builder"
+      },
+      {
+        "title": "More projects coming soon...",
+        "category": "React JS Project"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Get three hobbies in your life. One to keep you healthy, second to earn you money, third to keep you creative.",
+        "user": "~Mohit"
+      }
+    ]
   }
 }
