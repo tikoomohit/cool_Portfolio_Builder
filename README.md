@@ -1,7 +1,7 @@
 # My First React JS project - Portfolio builder   
 
 ## Description
-Build your cool porfolio using HTML, CSS & ReactJS.
+Built my porfolio using HTML, CSS & ReactJS.
 
 Create your attractive Resume in minutes.
 
