@@ -60,8 +60,8 @@ const Header = (props) => {
         <div className="banner-text">
           <h1 className="responsive-headline">I'm {props.data?.name}.</h1>
           <h3>
-            I'm a {props.data?.city} based <span>{props.data?.occupation}</span>.{" "}
-            {props.data?.description}.
+            I'm a {props.data?.address?.city} based{" "}
+            <span>{props.data?.occupation}</span>. {props.data?.description}.
           </h3>
           <hr />
           <ul className="social">{renderNetworks()}</ul>
